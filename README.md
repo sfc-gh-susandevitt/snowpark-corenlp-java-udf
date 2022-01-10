@@ -1,6 +1,6 @@
 # SentiLyzer
 
-Java project that contains static methods that can be levegared as User Defined Functions (UDFs) for performing sentiment analysis on text using [CoreNLP](https://stanfordnlp.github.io/CoreNLP/).
+Java project that contains static methods that can be levegared as User-Defined Functions (UDFs) for performing sentiment analysis on text using [CoreNLP](https://stanfordnlp.github.io/CoreNLP/).
 
 ## Usage
 
